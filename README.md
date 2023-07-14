@@ -10,7 +10,7 @@ To run this Flask application, you need to have the following software installed
     * Flask (you can install it using pip)
 
 ```bash
-https://github.com/gadzit-developers/FlaskBase.git
+git clone https://github.com/gadzit-developers/FlaskBase.git
 ```
 Change into the project directory
 
@@ -22,4 +22,9 @@ Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run the app
+```bash
+python run.py
 ```

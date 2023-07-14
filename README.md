@@ -10,9 +10,8 @@ To run this Flask application, you need to have the following software installed
     * Flask (you can install it using pip)
 
 ```bash
-git clone https://github.com/gadzit/flask-setup.git
+https://github.com/gadzit-developers/FlaskBase.git
 ```
-
 Change into the project directory
 
 ```bash
